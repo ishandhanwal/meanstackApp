@@ -1,0 +1,29 @@
+{
+  "name": "meanstackapp",
+  "version": "1.0.0",
+  "description": "Mean stack App in Angular2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishandhanwal/meanstackApp.git"
+  },
+  "keywords": [
+    "Mean",
+    "stack",
+    "Angular2",
+    "app"
+  ],
+  "author": "Ishan Dhanwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishandhanwal/meanstackApp/issues"
+  },
+  "homepage": "https://github.com/ishandhanwal/meanstackApp#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.1"
+  }
+}
